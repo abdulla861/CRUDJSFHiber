@@ -12,6 +12,7 @@ import javax.persistence.Table;
 public class Member {
 	
 	@Id
+	@GeneratedValue
 	@Column(name="id")
 	private int id;
 	

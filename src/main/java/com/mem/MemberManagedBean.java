@@ -13,8 +13,6 @@ public class MemberManagedBean {
 	private String message;
 	private Member member;
 	
-	
-	
 	public MemberManagedBean() {
 		member = new Member();
 	}
