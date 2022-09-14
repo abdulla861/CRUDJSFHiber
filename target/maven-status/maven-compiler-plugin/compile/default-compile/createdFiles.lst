@@ -1,0 +1,4 @@
+com\mem\model\Member.class
+com\mem\util\HibernateUtil.class
+com\mem\MemberManagedBean.class
+com\mem\dao\MemberDao.class
